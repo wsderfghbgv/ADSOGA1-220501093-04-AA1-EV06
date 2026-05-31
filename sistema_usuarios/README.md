@@ -202,30 +202,10 @@ python main.py
 
 ---
 
-## Capturas de pantalla requeridas
 
-Agrega las siguientes imágenes en `docs/capturas/`:
-
-| Archivo | Descripción |
-|---------|-------------|
-| `01_creacion_entorno_virtual.png` | Comando `python -m venv venv` ejecutado |
-| `02_instalacion_dependencias.png` | `pip install -r requirements.txt` completado |
-| `03_ejecucion_sistema.png` | Menú principal y operaciones del sistema |
-| `04_variables_entorno.png` | Contenido de `.env` y encabezado con `APP_NAME` |
 
 ---
 
-## Reflexión final (video)
-
-Enlace al video de YouTube con la reflexión sobre:
-
-- Ventajas de modularizar el código
-- Importancia de aislar dependencias con entornos virtuales
-- Uso seguro de variables de entorno
-
-**Enlace:** [Agregar aquí tu enlace de YouTube](https://youtube.com/)
-
----
 
 ## Evidencias de aprendizaje
 
